@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="D:\m-ash\Downloads\06_extension_libraries_and_loading_other_image_formats\06_extension_libraries_and_loading_other_image_formats\loaded.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="prompt.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="car1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="car2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="car3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="car4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="froggerBackground.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Wave.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="car1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="car2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="car3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="car4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="car5.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="log.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="frog1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Untitled.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="conquered.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="frogD.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="frogL.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="frogR.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="empty.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="lazy.ttf">
+      <Filter>Resource Files</Filter>
+    </Font>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="beat.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="high.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="low.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="medium.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="scratch.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="mixkit-arcade-retro-game-over-213.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="mixkit-player-jumping-in-a-video-game-2043.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="mixkit-video-game-spin-jump-2648.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="8bit-music-for-game-68698.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="mixkit-game-flute-bonus-2313.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CApp_OnCleanup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CApp_OnEvent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CApp_OnInit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CApp_OnLoop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CApp_OnRender.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CScroll_Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CApp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CScroll_Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mywindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
