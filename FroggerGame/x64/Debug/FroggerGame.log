@@ -1,0 +1,9 @@
+﻿  CApp.cpp
+  CApp_OnCleanup.cpp
+  CApp_OnEvent.cpp
+  CApp_OnInit.cpp
+F:\Coding stuff\OOP Class\FroggerGame\FroggerGame\CApp_OnInit.cpp(51,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CApp_OnLoop.cpp
+  CApp_OnRender.cpp
+  Generating Code...
+  FroggerGame.vcxproj -> F:\Coding stuff\OOP Class\FroggerGame\x64\Debug\FroggerGame.exe
